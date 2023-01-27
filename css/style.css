@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: rgb(16, 29, 65);
+    color: azure;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 18.75rem;
+}
+
+button{
+    font-size: 1rem;
+    padding: 15px;
+    color: white;
+    background-color: rgb(37, 137, 187);
+    border-radius: 0.5rem;
+    border-style: solid white;
+    border-color: white;
+
+}
+button:hover{
+    background-color: aliceblue;
+    color: rgb(16, 29, 65);
+
+}
+
+
